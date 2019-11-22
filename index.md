@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP [GROUPNAME]
-tags: example-tag
+title: OWASP Moscow
+tags: chapters
 level: 4
 type: 
 ---
