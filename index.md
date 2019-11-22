@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP [GROUPNAME]
+permalink: /chapter-moscow
 tags: example-tag
 level: 4
 type: 
-permalink: /chapter-moscow
 ---
 
 <!-- rebuild 13 -->
