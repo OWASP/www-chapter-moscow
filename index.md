@@ -2,7 +2,6 @@
 
 layout: col-sidebar
 title: OWASP [GROUPNAME]
-permalink: /chapter-moscow
 tags: example-tag
 level: 4
 type: 
