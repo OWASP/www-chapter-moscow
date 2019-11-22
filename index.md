@@ -5,7 +5,7 @@ title: OWASP [GROUPNAME]
 tags: example-tag
 level: 4
 type: 
-
+permalink: /chapter-moscow
 ---
 
 <!-- rebuild 13 -->
