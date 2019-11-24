@@ -4,7 +4,6 @@ layout: col-sidebar
 title: OWASP Moscow
 tags: chapters
 level: 4
-permalink: /foobar
 type: 
 ---
 
