@@ -16,12 +16,11 @@ type:
 
 Регистрация на будущие встречи Московского отделения OWASP, а также информация о прошедших мероприятиях публикуется [на нашей странице в сервисе Meetup.com](https://www.meetup.com/OWASP-Moscow/). Презентации доступны в [Speaker Deck](https://speakerdeck.com/owaspmoscow), а видеозаписи докладов можно найти на [Vimeo](https://vimeo.com/owaspmoscow). Чтобы следить за последними новостями подписывайтесь:
 
+[![](/assets/images/Meetup 48.png)](https://www.meetup.com/OWASP-Moscow/)
 [![](/assets/images/Twitter48.png)](https://twitter.com/owasp_moscow)
-
-* [Meetup: органиация и анонсы будущих встреч](https://www.meetup.com/OWASP-Moscow)
-* [Чат в Телеграме](https://t.me/OWASP_RU)
-* [Видео со встреч](https://vimeo.com/owaspmoscow)
-* [Слайды](https://speakerdeck.com/owaspmoscow)
+[![](/assets/images/Telegram 48.png)](https://t.me/OWASP_RU)
+[![](/assets/images/Vimeo 48.png)](https://vimeo.com/owaspmoscow)
+[![](/assets/images/64px-Speakerdeck_48)](https://speakerdeck.com/owaspmoscow)
 
 #### Выступить на будущей встрече
 
