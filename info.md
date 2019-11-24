@@ -1,17 +1,7 @@
-### [GROUPNAME] Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
-
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
 
-### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
-
+* [Telegram chat](https://t.me/OWASP_RU)
+* [Videos](https://vimeo.com/owaspmoscow)
+* [Slides](https://speakerdeck.com/owaspmoscow)
+* [Meetup]https://www.meetup.com/OWASP-Moscow)
+* [Follow us @owasp_moscow](https://twitter.com/owasp_moscow)
