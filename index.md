@@ -21,6 +21,7 @@ type:
 [![](/assets/images/Telegram_48.png)](https://t.me/OWASP_RU)
 [![](/assets/images/Vimeo_48.png)](https://vimeo.com/owaspmoscow)
 [![](/assets/images/64px-Speakerdeck_48.png)](https://speakerdeck.com/owaspmoscow)
+[![](/assets/images/habr48.png)](https://habr.com/ru/company/owasp/)
 
 #### Выступить на будущей встрече
 
