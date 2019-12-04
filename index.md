@@ -5,6 +5,7 @@ title: OWASP Moscow
 tags: chapters
 level: 4
 type: 
+region: Europe
 ---
 
 <!-- rebuild 13 -->
