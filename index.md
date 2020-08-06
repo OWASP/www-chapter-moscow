@@ -5,7 +5,7 @@ title: OWASP Moscow
 tags: chapters
 level: 4
 type: 
-region: Europ
+region: Europe
 meetup-group: OWASP-Moscow
 country: Russia
 postal-code: 
