@@ -30,7 +30,7 @@ postal-code:
 
 #### Выступить на будущей встрече
 
-У вас есть интересная тема для выступления на одной из будущих встреч Московского отделения OWASP? Отлично! Заполните [форму подачи заявки](https://forms.gle/TbVyXNdobSKMSMZ29).
+У вас есть интересная тема для выступления на одной из будущих встреч, включая онлайн-события, Московского отделения OWASP? Отлично! Заполните [форму подачи заявки](https://forms.gle/TbVyXNdobSKMSMZ29).
  
 ### Команда Московского отделения OWASP
 
@@ -43,20 +43,13 @@ postal-code:
 
 Существует множество способов принять участие в жизни Московского отделения OWASP:
 
-* Участие в любом из активных [проектов](https://www.owasp.org/index.php/Category:OWASP_Project) (в т.ч. написание утилит и документации)
+* Участие в любом из активных [проектов](https://owasp.org/projects/) (в т.ч. написание утилит и документации)
 * Предложение новых проектов
 * Переводы существующих проектов на русский язык
 * Помощь в организации конференций и встреч
 * Продвижение и поддержка проекта OWASP в целом
-
-### Поддержать
-
-Хотели бы помочь развитию нашего отделения OWASP и стать "Local Chapter Supporter"? Больше информации [здесь](https://www.owasp.org/index.php/Local_Chapter_Supporter).
+* Наконец, просто стать [участником OWASP](https://owasp.org/membership/)
 
 ## Welcome to OWASP Moscow!
 
-Everyone is welcome to join us at our chapter meetings.
-
-### Local News
-
-TBA
+Everyone is welcome to join us at our chapter meetings. Our meetings and other activities are mostly in Russian. But feel free to write us in English, too.
