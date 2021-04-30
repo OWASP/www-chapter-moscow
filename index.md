@@ -53,3 +53,6 @@ postal-code:
 ## Welcome to OWASP Moscow!
 
 Everyone is welcome to join us at our chapter meetings. Our meetings and other activities are mostly in Russian. But feel free to write us in English, too.
+
+### Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %}
