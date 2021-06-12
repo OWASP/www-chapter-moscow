@@ -7,6 +7,13 @@ tab: true
 order: 1
 ---
 
+## 2021
+
+### OWASP Moscow 2021.1
+[11.06.2021](https://www.meetup.com/OWASP-Moscow/events/278660867/)
+
+* "Evolution of Application Security Programs through OWASP SAMM 2.0", Yan Kravchenko, [слайды](https://speakerdeck.com/owaspmoscow/evolution-of-application-security-programs-through-owasp-samm-2-dot-0-yan-kravchenko), [видео](https://www.youtube.com/watch?v=wGgTm5xnYRg)
+
 ## 2020
 
 ### OWASP Moscow 2020/1
