@@ -34,7 +34,6 @@ postal-code:
  
 ### Команда Московского отделения OWASP
 
-* [Тарас Иващенко](mailto:taras.ivaschenko@owasp.org)
 * [Лука Сафонов](mailto:luka.safonov@owasp.org)
 * [Борис Савков](mailto:boris.savkov@owasp.org)
 * Алексей Кузнецов
