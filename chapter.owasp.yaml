@@ -1,0 +1,22 @@
+leaders:
+  - name: Luka Safonov
+    email: luka.safonov@owasp.org
+  - name: Boris Savkov
+    email: boris.savkov@owasp.org
+location:
+  country: Russia
+  country_code: RU
+  region: Russia
+  city: Moscow
+  latitude: 55.7505412
+  longitude: 37.6174782
+meetup_group: OWASP-Moscow
+name: OWASP Moscow
+repositories:
+  - name: www-chapter-moscow
+    url: https://github.com/OWASP/www-chapter-moscow
+tags:
+  - chapters
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-moscow
